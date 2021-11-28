@@ -10,6 +10,11 @@ body{
 	font-family: 'Montserrat', sans-serif;
 	background-color: #EDEFE6;
 }
+header{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
 form{
 	margin-top: 70px;
 	display: flex;
@@ -154,23 +159,3 @@ word-wrap: break-word;
 overflow-wrap:break-word;
 
 }
-/*
-<div class="container" id="container">
-
-	<div class="card">
-		<div class="title"><h1>tehranddddd</h1><span>IR</span></div>
-		<div class="body">
-			<div class="temp"><p>34</p><span>&#8451</span></div>
-			<div class="icon"><img src="rain.png"></div>
-		</div>
-		<div class="description">
-			<p>descripndescripndescripndescripndescripn</p>
-		</div>
-	</div>
-
-	<div class="card">
-		
-	</div>
-	</div>	
-</div>
-*/
