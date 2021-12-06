@@ -9,5 +9,8 @@ I made a simple  weather app with HTML, CSS,JAVASCRIPT.
   [demo](https://moeinnazari.github.io/simpleweatherapp/)
   
   ***
-![weatherapp](https://github.com/moeinnazari/simpleweatherapp/blob/main/weatherapp.png)
+  <p align="center">
+  <img src="https://github.com/moeinnazari/simpleweatherapp/blob/main/weatherapp.png" alt="weatherapp" width="50%" /> 
+</p>
+
 
